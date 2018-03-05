@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "111393735265",
-    "firebase_url": "https://mercali-1273b.firebaseio.com",
-    "project_id": "mercali-1273b",
-    "storage_bucket": "mercali-1273b.appspot.com"
+    "project_number": "123920127060",
+    "firebase_url": "https://sal-de-eso.firebaseio.com",
+    "project_id": "sal-de-eso",
+    "storage_bucket": "sal-de-eso.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111393735265:android:c701002ebae01bc6",
+        "mobilesdk_app_id": "1:123920127060:android:9ddf0b1883c7671b",
         "android_client_info": {
-          "package_name": "net.mercali.app"
+          "package_name": "com.saldeeso.www"
         }
       },
       "oauth_client": [
         {
-          "client_id": "111393735265-mesprs8pi79eri58h9v6kdm88elea523.apps.googleusercontent.com",
+          "client_id": "123920127060-sgtfhd02qhs0n446tmde2s54ueqg30oj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAZTFjkTXQjyWi_4GlAo0kgKJHt5KlzGBk"
+          "current_key": "AIzaSyDOxcCGQX8_TzN9rSdgLN8_LwiWhibQ4Ew"
         }
       ],
       "services": {
